@@ -99,6 +99,5 @@ function getArray(items) {
 }
 let numArray = getArray([1, 2, 3, 4]);
 let strArray = getArray(["a", "b", "c"]);
-strArray.push(1);
 console.log(numArray);
 console.log(strArray);
